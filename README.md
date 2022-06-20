@@ -4,6 +4,8 @@
 
 ### Projeto feito para estudar o TDD Test Driven Development, ou Desenvolvimento Orientado a Testes
 
+![ciclo do tdd](/.github/TDD.png)
+
 ## 📝 Requisitos
 
 ### Para iniciar o projeto em máquina você vai precisar ter o <a href="https://nodejs.org/pt-br/download/">Node JS</a> e para starta o projeto você vai precisar de uma <a href="https://code.visualstudio.com/download">IDE</a>
@@ -20,7 +22,8 @@
 ```
 
 ### Criando um banco Sqlite
-``` bash
+
+```bash
  $ yarn typeorm migration:run && npm typeorm migration:run
 ```
 
