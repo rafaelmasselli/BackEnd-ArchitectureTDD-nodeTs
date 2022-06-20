@@ -49,10 +49,10 @@ $ npm jest && npm test
 
 ## Rotas da aplicação
 
-- [x] GET ("http://localhost:5000/users")
-- [x] POST ("http://localhost:5000/addUser")
-- [x] DELETE ("http://localhost:5000/user/delete")
-- [x] PATCH ("http://localhost:5000/user/update")
+- [x] GET | http://localhost:5000/users
+- [x] POST | http://localhost:5000/addUser
+- [x] DELETE | http://localhost:5000/user/delete
+- [x] PATCH | http://localhost:5000/user/update
 
 ## Dependências instaladas
 
