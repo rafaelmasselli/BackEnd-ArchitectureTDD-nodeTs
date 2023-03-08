@@ -2,15 +2,15 @@
 
 ## Descrição
 
-### Projeto feito para estudar o TDD Test Driven Development, ou Desenvolvimento Orientado a Testes
+Projeto feito para estudar o TDD Test Driven Development, ou Desenvolvimento Orientado a Testes
 
 ![ciclo do tdd](/.github/TDD.png)
 
 ## 📝 Requisitos
 
-### Para iniciar o projeto em máquina você vai precisar ter o <a href="https://nodejs.org/pt-br/download/">Node JS</a> e para starta o projeto você vai precisar de uma <a href="https://code.visualstudio.com/download">IDE</a>
+Para iniciar o projeto em máquina você vai precisar ter o <a href="https://nodejs.org/pt-br/download/">Node JS</a> e para starta o projeto você vai precisar de uma <a href="https://code.visualstudio.com/download">IDE</a>
 
-### para clonar o projeto você vai precisa do <a href="https://git-scm.com/">Git</a>
+para clonar o projeto você vai precisa do <a href="https://git-scm.com/">Git</a>
 
 ## ☕ Iniciando o projeto
 
